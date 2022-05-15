@@ -191,5 +191,3 @@ The lanenet project refers to the following projects:
 
 ## Contact
 
-Scan the following QR to disscuss :)
-![qr](./data/source_image/qr.jpg)
