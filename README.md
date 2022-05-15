@@ -190,4 +190,4 @@ The lanenet project refers to the following projects:
 - [PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
 
 ## Contact
-
+[![Gmail Badge](https://img.shields.io/badge/-debarghobasak1999-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:debargho.basak1999@gmail.com)](mailto:debargho.basak1999@gmail.com)
